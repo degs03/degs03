@@ -4,10 +4,10 @@
 <h4 align="center">- Austin Freeman -</h4>
 
 <br>
-
+<div align="center" style="margin-bottom:200px">
 <img src="https://github-readme-stats.vercel.app/api?username=degs03&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=degs03&theme=blueberry_duo"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=degs03&layout=compact&theme=github_dark"/>|
-
+</div>
 
 <br>
 
