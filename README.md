@@ -36,6 +36,7 @@
 
 #### Studying in this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://www.mysql.com/)
 
 #### Tools:
 
