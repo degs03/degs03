@@ -3,14 +3,21 @@
 <h3 align="center">"Simplicity is the soul of efficiency."</h3>
 <h4 align="center">- Austin Freeman -</h4>
 
+##  **About me 🙎‍♂️**
+<p>
+  Desarrollador full Stack MERN y Estudiante de la carrera de Licenciatura en Análisis de Sistemas. Con manejo de React, Next.js, Express, MongoDB, también cuento con experiencia en el manejo de MySQL. Cuento con apertura al aprendizaje continuo, de resolución de problemas de manera creativa e innovadora y capacidad de trabajo en equipo. Me encuentro interesado en desarrollar mi carrera dentro del área del IT, específicamente en el área de la programación a fin de aportar mis conocimientos al desarrollo de diversos proyectos
+</p>
+<br>
+
+## Stats
 <br>
 <div align="center" style="margin-bottom:200px">
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degs03&layout=compact&theme=radical""/>
-<img width=56% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=degs03&layout=compact&theme=radical""/>
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degs03&layout=compact&theme=monokai""/>
+<img width=56% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=degs03&layout=compact&theme=monokai""/>
 </div>
 <br>
 
-## Language and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Language and Tools</b>
 
 <img src="https://raw.githubusercontent.com/degs03/degs03/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -43,24 +50,24 @@
 <!--Contribution Graph-->
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=degs03&bg_color=011627&color=8F2B5A&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=degs03&bg_color=272822&color=EB1F53&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <br>
 
 ## Projects
  <a href="https://github.com/degs03/FindYourPet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=FindYourPet&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=FindYourPet&theme=monokai" />
 </a>
 <a href="https://github.com/degs03/Ecommerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=Ecommerce&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=Ecommerce&theme=monokai" />
 </a>
 
   <a href="https://github.com/degs03/SpeedTyping">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=SpeedTyping&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=SpeedTyping&theme=monokai" />
 </a>
 <a href="https://github.com/degs03/reloj-pomodoro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=reloj-pomodoro&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=degs03&repo=reloj-pomodoro&theme=monokai" />
 </a>
 <br>
 
