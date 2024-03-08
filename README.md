@@ -5,9 +5,8 @@
 
 <br>
 
-<div align="center" style="margin-bottom:200px">
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=degs03&layout=compact&theme=radical" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=degs03&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=degs03&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=degs03&layout=compact&theme=github_dark"/>|
 
 
 <br>
@@ -38,7 +37,7 @@
 <br>
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">Contribution Graph</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=degs03&bg_color=011627&color=8F2B5A&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
