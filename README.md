@@ -5,6 +5,10 @@
   Desarrollador full Stack MERN y Estudiante de la carrera de Licenciatura en Análisis de Sistemas. Con manejo de React, Next.js, Express, MongoDB, también cuento con experiencia en el manejo de MySQL. Cuento con apertura al aprendizaje continuo, de resolución de problemas de manera creativa e innovadora y capacidad de trabajo en equipo. Me encuentro interesado en desarrollar mi carrera dentro del área del IT, específicamente en el área de la programación a fin de aportar mis conocimientos al desarrollo de diversos proyectos. 👋
 </p>
 <br>
+<p>
+Full Stack MERN Developer and student pursuing a Bachelor's Degree in Systems Analysis. Proficient in React, Next.js, Express, and MongoDB, with experience in managing MySQL. I am open to continuous learning, solving problems creatively and innovatively, and have strong teamwork skills. I am interested in advancing my career within the IT field, specifically in programming, to contribute my knowledge to the development of various projects. 👋
+</p>
+<br>
 
 ## Stats
 <br>
