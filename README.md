@@ -6,7 +6,7 @@
 </p>
 <br>
 <p>
-Full Stack MERN Developer and student pursuing a Bachelor's Degree in Systems Analysis. Proficient in React, Next.js, Express, and MongoDB, with experience in managing MySQL. I am open to continuous learning, solving problems creatively and innovatively, and have strong teamwork skills. I am interested in advancing my career within the IT field, specifically in programming, to contribute my knowledge to the development of various projects. 👋
+Full Stack MERN Developer and student pursuing a Bachelor's degree in Computer Systems Analysis. Proficient in React, Next.js, Express, and MongoDB, with experience in managing MySQL. I am open to continuous learning, solving problems creatively and innovatively, and have strong teamwork skills. I am interested in advancing my career within the IT field, specifically in programming, to contribute my knowledge to the development of various projects. 👋
 </p>
 <br>
 
