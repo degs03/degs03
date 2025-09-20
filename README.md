@@ -2,7 +2,7 @@
 
 ##  **About me 🙎‍♂️**
 <p>
-  Desarrollador full Stack MERN y Estudiante de la carrera de Licenciatura en Análisis de Sistemas. Con manejo de React, Next.js, Express, MongoDB, también cuento con experiencia en el manejo de MySQL. Cuento con apertura al aprendizaje continuo, de resolución de problemas de manera creativa e innovadora y capacidad de trabajo en equipo. Me encuentro interesado en desarrollar mi carrera dentro del área del IT, específicamente en el área de la programación a fin de aportar mis conocimientos al desarrollo de diversos proyectos. 👋
+Desarrollador full Stack y Estudiante de la carrera de Licenciatura en Análisis de Sistemas. Con manejo de React, Next.js, PHP, Laravel, Express, MongoDB, Prisma, también cuento con experiencia en el manejo de MySQL, PostgreSQL. Cuento con apertura al aprendizaje continuo, de resolución de problemas de manera creativa e innovadora y capacidad de trabajo en equipo. Me encuentro interesado en desarrollar mi carrera dentro del área del IT, específicamente en el área de la programación a fin de aportar mis conocimientos al desarrollo de diversos proyectos. 👋
 </p>
 <br>
 <p>
